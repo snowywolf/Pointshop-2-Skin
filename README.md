@@ -6,5 +6,7 @@ Pointshop 2 UI Skin
 * Use of blur.
 * Blue and Green colors.
 
+(Install guide at: http://pointshop2.kamshak.com/en/latest/developer/skinning.html)
+
 
 ![alt text](http://i.imgur.com/atntrLz.png)
