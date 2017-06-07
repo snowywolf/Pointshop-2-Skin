@@ -1,0 +1,2 @@
+resource/fonts/gidole-regular.ttf
+Font by Andreas Larsen @larsenwork. Licensed under the MIT License.
