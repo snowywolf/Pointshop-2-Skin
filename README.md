@@ -1,12 +1,11 @@
 # Pointshop-2-Skin
 Pointshop 2 UI Skin
 
-(Get the Gidole-Regular.ttf from here: https://github.com/larsenwork/Gidole/tree/master/Resources/GidoleFont)
-* New Font 
+* New Font (Gidole)
 * Use of blur.
 * Blue and Green colors.
 
-(Install guide at: http://pointshop2.kamshak.com/en/latest/developer/skinning.html)
+Installation: drag and drop the lua and resource folder into your main pointshop2 folder.
 
 
 ![alt text](http://i.imgur.com/atntrLz.png)
